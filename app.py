@@ -119,6 +119,8 @@ def render_page(title, body, desc="सरकारी योजना पोर�
 <title>{title}</title>
 <meta name="description" content="{desc}">
 <meta name="keywords" content="सरकारी योजना,PM-KISAN,PMAY,आयुष्मान भारत,sarkari yojana">
+<meta name="google-adsense-account" content="ca-pub-1709475506645918">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1709475506645918" crossorigin="anonymous"></script>
 {STYLE}</head><body>{HEADER}<main>{body}</main>{FOOTER}</body></html>"""
 
 @app.route('/')
@@ -207,6 +209,10 @@ def blog_article(slug):
     <div class="article-body">{a['content']}</div>
     </div>"""
     return render_page(f"{a['title']} | सरकारी योजना पोर्टल", body, a['title'])
+
+@app.route('/ads.txt')
+def ads_txt():
+    return "google.com, pub-1709475506645918, DIRECT, f08c47fec0942fa0", 200, {'Content-Type': 'text/plain'}
 
 @app.route('/api/yojanas')
 def api_yojanas():
