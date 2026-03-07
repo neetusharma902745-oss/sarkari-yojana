@@ -447,6 +447,33 @@ articles = [
     {"id":19,"yojana_id":1,"title":"Kisan Credit Card: ₹3 लाख सिर्फ 4% ब्याज पर कैसे लें?","slug":"kisan-credit-card","icon":"🌾","date":"6 फरवरी 2024","read_time":"6 मिनट","content":"<h2>Kisan Credit Card (KCC) क्या है?</h2><p>किसानों को खेती के लिए <strong>सिर्फ 4% ब्याज</strong> पर ₹3 लाख तक का loan।</p><h2>KCC के फायदे</h2><ul><li>4% ब्याज पर ₹3 लाख loan</li><li>₹50,000 accident insurance</li><li>Crop insurance की सुविधा</li><li>ATM card मिलेगा</li></ul><h2>KCC कैसे बनवाएं?</h2><ol><li>नजदीकी बैंक में जाएं</li><li>KCC application form भरें</li><li>खसरा/खतौनी, आधार, PAN जमा करें</li><li>7-14 दिन में KCC मिलेगा</li></ol><h2>4% कैसे होता है?</h2><p>सरकार 2% subvention + 3% prompt repayment incentive = कुल 4% ब्याज।</p><h2>हेल्पलाइन</h2><p>📞 <strong>1800-180-1551</strong></p>"},
     {"id":20,"yojana_id":2,"title":"PMAY Urban List: शहर में घर के लिए कैसे करें आवेदन?","slug":"pmay-urban-apply","icon":"🏠","date":"5 फरवरी 2024","read_time":"6 मिनट","content":"""<h2>PMAY Urban क्या है?</h2><p>शहरी गरीबों को पक्का घर देने के लिए PMAY-Urban के तहत <strong>ब्याज सब्सिडी</strong> और direct benefit दिया जाता है।</p><h2>4 Components</h2><ul><li><strong>BLC:</strong> Beneficiary Led Construction — खुद जमीन है, घर बनाओ</li><li><strong>CLSS:</strong> Home loan पर interest subsidy</li><li><strong>AHP:</strong> Affordable Housing in Partnership</li><li><strong>ISSR:</strong> Slum Rehabilitation</li></ul><h2>CLSS Subsidy कितनी मिलती है?</h2><ul><li>EWS/LIG: 6.5% — ₹2.67 लाख तक</li><li>MIG-I: 4% — ₹2.35 लाख तक</li><li>MIG-II: 3% — ₹2.30 लाख तक</li></ul><h2>Online Apply करें</h2><ol><li>pmaymis.gov.in खोलें</li><li>Citizen Assessment click करें</li><li>Category select करें और form भरें</li><li>Application ID note करें</li></ol><h2>हेल्पलाइन</h2><p>📞 <strong>1800-11-3377</strong></p>"""},
     {"id":21,"yojana_id":3,"title":"Ayushman Bharat: नया Card 2024 में कैसे बनाएं? Step by Step","slug":"ayushman-card-banaye-2024","icon":"🏥","date":"4 फरवरी 2024","read_time":"5 मिनट","content":"""<h2>नया Ayushman Card 2024</h2><p>अब Ayushman Card बनाना और भी आसान हो गया है। <strong>घर बैठे mobile से</strong> card बना सकते हैं।</p><h2>Mobile से Card कैसे बनाएं?</h2><ol><li>beneficiary.nha.gov.in खोलें</li><li>मोबाइल नंबर डालें और OTP verify करें</li><li>आधार नंबर डालें</li><li>Face authentication या OTP से verify करें</li><li>Card download करें — PDF format में</li></ol><h2>PM-JAY App से Card बनाएं</h2><ol><li>Play Store से PMJAY app download करें</li><li>Register करें और login करें</li><li>आधार से verify करें</li><li>Card generate होगा</li></ol><h2>CSC Center से Card बनाएं</h2><p>नजदीकी CSC Center पर जाएं — वहाँ <strong>मुफ्त में</strong> card बनेगा। आधार card साथ लाएं।</p><h2>Card खो गया तो?</h2><p>beneficiary.nha.gov.in पर जाकर दोबारा download करें। Card unlimited बार download हो सकता है।</p><h2>हेल्पलाइन</h2><p>📞 <strong>14555</strong></p>"""},
+    {"id":22,"yojana_id":1,"title":"PM-KISAN Kist Status 2024: Apni Kist Kab Aayegi?","slug":"pm-kisan-kist-status","icon":"🌾","date":"3 फरवरी 2024","read_time":"4 मिनट","content":"<h2>किस्त कब आती है?</h2><p>PM-KISAN में साल में <strong>3 किस्तें</strong> आती हैं — अप्रैल-जुलाई, अगस्त-नवंबर, दिसंबर-मार्च। हर किस्त में <strong>₹2,000</strong> सीधे बैंक खाते में आते हैं।</p><h2>Status Check करें</h2><ol><li>pmkisan.gov.in खोलें</li><li>Farmers Corner → Beneficiary Status click करें</li><li>आधार नंबर डालें → Get Data click करें</li></ol><h2>किस्त नहीं आई तो?</h2><ul><li>eKYC complete नहीं है — तुरंत करें</li><li>बैंक खाता आधार से linked नहीं है</li><li>Land records में नाम गलत है</li></ul><h2>हेल्पलाइन</h2><p>📞 <strong>155261</strong></p>"},
+    {"id":23,"yojana_id":9,"title":"Minority Merit cum Means Scholarship 2024: ₹20,000 कैसे पाएं?","slug":"minority-merit-scholarship","icon":"🎓","date":"2 फरवरी 2024","read_time":"5 मिनट","content":"<h2>Merit cum Means Scholarship क्या है?</h2><p>Minority वर्ग के Technical/Professional course के छात्रों को <strong>₹20,000 तक</strong> scholarship मिलती है।</p><h2>कौन है Minority?</h2><p>Muslim, Christian, Sikh, Buddhist, Parsi और Jain वर्ग के छात्र।</p><h2>पात्रता</h2><ul><li>50%+ अंक और आय ₹2.5 लाख से कम</li><li>Recognized institution में enrolled हों</li></ul><h2>Apply Steps</h2><ol><li>scholarships.gov.in → Register करें</li><li>Merit cum Means select करें</li><li>Form fill करें, documents upload करें</li><li>Institute से verify कराएं</li></ol><h2>हेल्पलाइन</h2><p>📞 <strong>0120-6619540</strong></p>"},
+    {"id":24,"yojana_id":3,"title":"Ayushman Bharat List Check 2024: Apna Naam Kaise Dekhe?","slug":"ayushman-list-check","icon":"🏥","date":"1 फरवरी 2024","read_time":"4 मिनट","content":"<h2>List में नाम कैसे देखें?</h2><ol><li>pmjay.gov.in खोलें</li><li>Am I Eligible button click करें</li><li>मोबाइल नंबर डालें और OTP verify करें</li><li>राज्य select करें</li><li>नाम, राशन card नंबर से खोजें</li></ol><h2>नाम नहीं है तो?</h2><ul><li>राज्य सरकार की Ayushman scheme check करें</li><li>District Hospital के Helpdesk से मिलें</li></ul><h2>Card कैसे बनवाएं?</h2><p>beneficiary.nha.gov.in पर मोबाइल से card बनाएं या CSC Center जाएं — मुफ्त में।</p><h2>हेल्पलाइन</h2><p>📞 <strong>14555</strong></p>"},
+    {"id":25,"yojana_id":8,"title":"Jan Dhan RuPay Card: 2 Lakh Insurance Claim Kaise Kare?","slug":"jan-dhan-rupay-insurance","icon":"🏦","date":"31 जनवरी 2024","read_time":"5 मिनट","content":"<h2>RuPay Card के फायदे</h2><ul><li>₹2 लाख दुर्घटना बीमा (card use करने पर)</li><li>₹30,000 जीवन बीमा</li><li>₹10,000 Overdraft सुविधा</li><li>ATM से मुफ्त पैसे निकासी</li></ul><h2>₹2 लाख Claim कैसे करें?</h2><ol><li>दुर्घटना के 90 दिन के अंदर claim करें</li><li>बैंक Branch Manager से मिलें</li><li>Death certificate + FIR copy दें</li><li>Nominee का बैंक account details दें</li><li>30-45 दिन में claim settle होगा</li></ol><h2>महत्वपूर्ण शर्त</h2><p>RuPay card से 90 दिन के अंदर कम से कम <strong>एक transaction</strong> ज़रूरी है।</p><h2>हेल्पलाइन</h2><p>📞 <strong>1800-11-0001</strong></p>"}
+]
+
+jobs = [
+    {"id":1,"title":"SSC CGL 2024","dept":"SSC — कर्मचारी चयन आयोग","posts":"17,727 पद","qual":"Graduation","age":"18-32 वर्ष","salary":"₹25,500-₹1,51,100","last_date":"31 मार्च 2024","status":"active","link":"https://ssc.nic.in","icon":"🏛️","cat":"केंद्र सरकार"},
+    {"id":2,"title":"UPSC Civil Services 2024 — IAS/IPS/IFS","dept":"UPSC — संघ लोक सेवा आयोग","posts":"1,056 पद","qual":"कोई भी Graduation","age":"21-32 वर्ष","salary":"₹56,100-₹2,50,000","last_date":"20 फरवरी 2024","status":"active","link":"https://upsc.gov.in","icon":"⭐","cat":"केंद्र सरकार"},
+    {"id":3,"title":"Railway RRB NTPC 2024","dept":"रेलवे भर्ती बोर्ड (RRB)","posts":"11,558 पद","qual":"12वीं / Graduation","age":"18-33 वर्ष","salary":"₹19,900-₹35,400","last_date":"अप्रैल 2024","status":"active","link":"https://indianrailways.gov.in","icon":"🚂","cat":"रेलवे"},
+    {"id":4,"title":"Railway Group D 2024","dept":"RRB — रेलवे भर्ती बोर्ड","posts":"32,438 पद","qual":"10वीं + ITI","age":"18-33 वर्ष","salary":"₹18,000-₹56,900","last_date":"मार्च 2024","status":"active","link":"https://indianrailways.gov.in","icon":"🚂","cat":"रेलवे"},
+    {"id":5,"title":"SBI PO 2024 — Probationary Officer","dept":"भारतीय स्टेट बैंक (SBI)","posts":"2,000 पद","qual":"कोई भी Graduation","age":"21-30 वर्ष","salary":"₹41,960-₹63,840","last_date":"मार्च 2024","status":"active","link":"https://sbi.co.in/careers","icon":"🏦","cat":"बैंक"},
+    {"id":6,"title":"IBPS PO 2024 — Bank PO","dept":"IBPS","posts":"4,455 पद","qual":"कोई भी Graduation","age":"20-30 वर्ष","salary":"₹36,000-₹63,840","last_date":"अगस्त 2024","status":"upcoming","link":"https://ibps.in","icon":"🏦","cat":"बैंक"},
+    {"id":7,"title":"IBPS Clerk 2024","dept":"IBPS","posts":"6,128 पद","qual":"Graduation","age":"20-28 वर्ष","salary":"₹11,765-₹42,020","last_date":"सितंबर 2024","status":"upcoming","link":"https://ibps.in","icon":"🏦","cat":"बैंक"},
+    {"id":8,"title":"SSC CHSL 2024 — 10+2 Level","dept":"SSC","posts":"3,712 पद","qual":"12वीं पास","age":"18-27 वर्ष","salary":"₹19,900-₹63,200","last_date":"फरवरी 2024","status":"active","link":"https://ssc.nic.in","icon":"🏛️","cat":"केंद्र सरकार"},
+    {"id":9,"title":"SSC MTS 2024 — Multi Tasking Staff","dept":"SSC","posts":"8,326 पद","qual":"10वीं पास","age":"18-27 वर्ष","salary":"₹18,000-₹56,900","last_date":"मार्च 2024","status":"active","link":"https://ssc.nic.in","icon":"🏛️","cat":"केंद्र सरकार"},
+    {"id":10,"title":"UP Police Constable 2024","dept":"UP Police भर्ती बोर्ड","posts":"60,244 पद","qual":"12वीं पास","age":"18-22 वर्ष","salary":"₹21,700-₹69,100","last_date":"फरवरी 2024","status":"active","link":"https://uppbpb.gov.in","icon":"👮","cat":"राज्य सरकार"},
+    {"id":11,"title":"Bihar Police Constable 2024","dept":"BPSSC Bihar","posts":"21,391 पद","qual":"12वीं पास","age":"18-25 वर्ष","salary":"₹21,700-₹69,100","last_date":"मार्च 2024","status":"active","link":"https://bpssc.bih.nic.in","icon":"👮","cat":"राज्य सरकार"},
+    {"id":12,"title":"Rajasthan Police Constable 2024","dept":"राजस्थान पुलिस","posts":"3,578 पद","qual":"10वीं / 12वीं","age":"18-24 वर्ष","salary":"₹14,600-₹47,100","last_date":"अप्रैल 2024","status":"active","link":"https://police.rajasthan.gov.in","icon":"👮","cat":"राज्य सरकार"},
+    {"id":13,"title":"Army Agniveer 2024 — अग्निपथ योजना","dept":"भारतीय सेना","posts":"अनेक पद","qual":"10वीं / 12वीं","age":"17.5-23 वर्ष","salary":"₹30,000-₹40,000","last_date":"रोलिंग","status":"active","link":"https://joinindianarmy.nic.in","icon":"🪖","cat":"सेना"},
+    {"id":14,"title":"Navy Agniveer SSR / MR 2024","dept":"भारतीय नौसेना","posts":"अनेक पद","qual":"10वीं / 12वीं","age":"17.5-21 वर्ष","salary":"₹30,000-₹40,000","last_date":"रोलिंग","status":"active","link":"https://joinindiannavy.gov.in","icon":"⚓","cat":"सेना"},
+    {"id":15,"title":"Air Force Agniveer 2024","dept":"भारतीय वायु सेना","posts":"अनेक पद","qual":"10वीं / 12वीं","age":"17.5-21 वर्ष","salary":"₹30,000-₹40,000","last_date":"रोलिंग","status":"active","link":"https://agnipathvayu.cdac.in","icon":"✈️","cat":"सेना"},
+    {"id":16,"title":"NEET UG 2024 — Medical Entrance","dept":"NTA","posts":"Medical Admission","qual":"12वीं PCB","age":"17+ वर्ष","salary":"MBBS/BDS Admission","last_date":"मार्च 2024","status":"active","link":"https://neet.nta.nic.in","icon":"🏥","cat":"परीक्षा"},
+    {"id":17,"title":"JEE Main 2024 — Engineering Entrance","dept":"NTA","posts":"Engineering Admission","qual":"12वीं PCM","age":"कोई सीमा नहीं","salary":"B.Tech Admission (NIT/IIIT)","last_date":"नवंबर 2024","status":"active","link":"https://jeemain.nta.nic.in","icon":"🔬","cat":"परीक्षा"},
+    {"id":18,"title":"CTET 2024 — Teacher Eligibility Test","dept":"CBSE","posts":"Teacher Certificate","qual":"Graduation + B.Ed","age":"कोई सीमा नहीं","salary":"Lifetime Certificate","last_date":"अप्रैल 2024","status":"upcoming","link":"https://ctet.nic.in","icon":"📚","cat":"शिक्षक"},
+    {"id":19,"title":"KVS TGT / PGT Recruitment 2024","dept":"Kendriya Vidyalaya Sangathan","posts":"13,404 पद","qual":"Graduation + B.Ed","age":"18-35 वर्ष","salary":"₹44,900-₹1,42,400","last_date":"जनवरी 2024","status":"active","link":"https://kvsangathan.nic.in","icon":"📚","cat":"शिक्षक"},
+    {"id":20,"title":"DRDO Apprentice 2024","dept":"DRDO","posts":"1,000+ पद","qual":"ITI / Diploma / Graduation","age":"18-28 वर्ष","salary":"₹8,000-₹14,000 Stipend","last_date":"रोलिंग","status":"active","link":"https://drdo.gov.in","icon":"🔬","cat":"केंद्र सरकार"},
 ]
 
 STYLE = """<style>
@@ -520,6 +547,7 @@ footer{background:#000080;color:rgba(255,255,255,.7);text-align:center;padding:1
 footer strong{color:#FF9933}
 footer a{color:#FF9933;text-decoration:none}
 @media(max-width:600px){.stats{gap:8px}.stat .num{font-size:1.4rem}.search-row{flex-direction:column}.grid{grid-template-columns:1fr}.blog-grid{grid-template-columns:1fr}}
+.job-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:18px}.job-card{background:white;border-radius:14px;padding:20px;border:1px solid #e0d5c0;box-shadow:0 4px 15px rgba(0,0,128,.07);position:relative;overflow:hidden;transition:all .25s}.job-card::before{content:'';position:absolute;top:0;left:0;right:0;height:4px;background:linear-gradient(to right,#138808,#000080)}.job-card:hover{transform:translateY(-4px);box-shadow:0 12px 35px rgba(0,0,128,.13)}.job-icon{font-size:1.8rem;margin-bottom:8px}.job-title{font-size:.92rem;font-weight:700;color:#000080;line-height:1.4;margin-bottom:4px}.job-dept{font-size:.72rem;color:#138808;font-weight:600;margin-bottom:10px}.job-meta{display:grid;grid-template-columns:1fr 1fr;gap:6px;margin-bottom:10px}.job-meta-item{background:#f5f0e8;border-radius:6px;padding:5px 8px}.job-meta-lbl{font-size:.58rem;color:#888;font-weight:600;text-transform:uppercase}.job-meta-val{font-size:.76rem;font-weight:700;color:#1a1a2e}.badge-active{display:inline-block;padding:2px 10px;border-radius:50px;font-size:.63rem;font-weight:700;background:#E8F5E9;color:#138808;margin-bottom:8px}.badge-upcoming{display:inline-block;padding:2px 10px;border-radius:50px;font-size:.63rem;font-weight:700;background:#FFF3E0;color:#FF9933;margin-bottom:8px}.job-apply-btn{display:block;padding:9px;background:linear-gradient(135deg,#000080,#1a1a8e);color:white;text-align:center;border-radius:8px;text-decoration:none;font-size:.8rem;font-weight:700;margin-top:10px}.job-filter-btn{padding:5px 14px;border-radius:50px;border:2px solid #000080;background:transparent;color:#000080;font-size:.78rem;cursor:pointer;font-family:inherit;transition:all .2s;text-decoration:none;display:inline-block;font-weight:600;margin:3px}.job-filter-btn:hover{background:#000080;color:white}
 </style>
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Devanagari:wght@400;600;700;800&display=swap" rel="stylesheet">"""
 
@@ -535,6 +563,7 @@ HEADER = """<div class="tricolor"></div>
 <li><a href="/search?category=आवास">🏠 आवास</a></li>
 <li><a href="/search?category=महिला">👩 महिला</a></li>
 <li><a href="/search?category=रोजगार">💼 रोजगार</a></li>
+<li><a href="/jobs">💼 Sarkari Jobs</a></li>
 <li><a href="/about">ℹ️ About</a></li>
 <li><a href="/contact">📞 Contact</a></li>
 </ul></nav>
@@ -544,6 +573,7 @@ FOOTER = """<footer>
 <p>© 2024 <strong>भारत सरकार योजना पोर्टल</strong> | 
 <a href="/about">About Us</a> | 
 <a href="/contact">Contact</a> | 
+<a href="/jobs">Sarkari Jobs</a> | 
 <a href="/privacy-policy">Privacy Policy</a> | 
 जानकारी के लिए आधिकारिक वेबसाइट देखें।</p>
 </footer>"""
@@ -725,6 +755,52 @@ def ads_txt():
 @app.route('/api/yojanas')
 def api_yojanas():
     return jsonify(yojanas)
+
+
+@app.route('/jobs')
+def jobs_page():
+    jj = json.dumps(jobs, ensure_ascii=False)
+    cats = ['सभी','केंद्र सरकार','राज्य सरकार','रेलवे','बैंक','सेना','परीक्षा','शिक्षक']
+    cat_links = ''.join([f'<a href="/jobs?cat={c}" class="job-filter-btn">{c}</a>' for c in cats])
+    body = f"""<div class="search-box">
+    <h2>💼 सरकारी नौकरी 2024</h2>
+    <p>Latest Government Jobs — SSC, UPSC, Railway, Bank, Army Bharti हिंदी में</p>
+    <div class="search-row"><input type="text" id="ji" placeholder="Job खोजें... SSC, Railway, Bank, Police">
+    <button onclick="window.location='/jobs?q='+document.getElementById('ji').value">🔍 खोजें</button></div>
+    </div>
+    <div style="display:flex;flex-wrap:wrap;gap:6px;margin-bottom:20px">{cat_links}</div>
+    <div class="stats" style="margin-bottom:24px">
+    <div class="stat"><div class="num">{len(jobs)}</div><div class="lbl">सरकारी Vacancies</div></div>
+    <div class="stat"><div class="num">7</div><div class="lbl">Categories</div></div>
+    <div class="stat"><div class="num">1.5लाख+</div><div class="lbl">Total Posts</div></div>
+    </div>
+    <div class="section-title">📋 Latest Sarkari Jobs 2024</div>
+    <div class="job-grid" id="jgrid"></div>
+    <script>
+    const jdata={jj};
+    const up=new URLSearchParams(window.location.search);
+    const cat=up.get('cat')||'',q=(up.get('q')||'').toLowerCase();
+    let fl=[...jdata];
+    if(cat&&cat!='सभी')fl=fl.filter(j=>j.cat===cat);
+    if(q)fl=fl.filter(j=>j.title.toLowerCase().includes(q)||j.dept.toLowerCase().includes(q)||j.cat.toLowerCase().includes(q));
+    const badge=s=>s==='active'?'<span class="badge-active">✅ Active</span>':'<span class="badge-upcoming">🔜 Coming Soon</span>';
+    document.getElementById('jgrid').innerHTML=fl.length?fl.map(j=>`<div class="job-card">
+    <div class="job-icon">${{j.icon}}</div>${{badge(j.status)}}
+    <div class="job-title">${{j.title}}</div>
+    <div class="job-dept">🏛️ ${{j.dept}}</div>
+    <div class="job-meta">
+    <div class="job-meta-item"><div class="job-meta-lbl">📋 पद</div><div class="job-meta-val">${{j.posts}}</div></div>
+    <div class="job-meta-item"><div class="job-meta-lbl">🎓 योग्यता</div><div class="job-meta-val">${{j.qual}}</div></div>
+    <div class="job-meta-item"><div class="job-meta-lbl">📅 आयु सीमा</div><div class="job-meta-val">${{j.age}}</div></div>
+    <div class="job-meta-item"><div class="job-meta-lbl">⏰ Last Date</div><div class="job-meta-val">${{j.last_date}}</div></div>
+    </div>
+    <div style="font-size:.8rem;color:#138808;font-weight:700;margin-bottom:8px">💰 वेतन: ${{j.salary}}</div>
+    <a href="${{j.link}}" target="_blank" class="job-apply-btn">🚀 Apply Now / Official Website</a>
+    </div>`).join(''):'<p style="text-align:center;padding:40px;color:#888">कोई job नहीं मिली</p>';
+    document.getElementById('ji').addEventListener('keyup',e=>{{if(e.key==='Enter')window.location='/jobs?q='+e.target.value}});
+    </script>"""
+    return render_page("सरकारी नौकरी 2024 | Latest Sarkari Jobs",body,
+        "SSC UPSC Railway Bank Army Police सरकारी नौकरी 2024 — सभी Vacancies हिंदी में")
 
 if __name__ == '__main__':
     port = int(os.environ.get('PORT', 5000))
